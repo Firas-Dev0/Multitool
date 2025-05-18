@@ -14,7 +14,7 @@ Password Leak Checker: Verify if passwords have been compromised.
 
 SMS Sender: Send SMS messages anonymously.
 
-QR Code Generator: Create QR codes from text or URLs.
+QR Code Generator: Create QR codes from URLs.
 
 URL Shortener: Shorten long URLs for easy sharing.
 
@@ -55,7 +55,7 @@ Add your keys to the appropriate configuration files or environment variables as
 ## 🚀 Usage
 Run the multitool:
 
-```python multitool.py```
+```python multi.py```
 
 Follow the on-screen prompts to select and use the desired tool.
 
