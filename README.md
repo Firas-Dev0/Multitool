@@ -55,7 +55,7 @@ Add your keys to the appropriate configuration files or environment variables as
 ## 🚀 Usage
 Run the multitool:
 
-```python main.py```
+```python multitool.py```
 
 Follow the on-screen prompts to select and use the desired tool.
 
