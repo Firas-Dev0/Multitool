@@ -38,10 +38,8 @@ Ensure you have Python 3.6+ installed. You can download it from python.org.
 
 ## Clone the Repository
 
-
-
-```git clone https://github.com/YourUsername/Python-Multitool.git
-cd Python-Multitool```
+```git clone https://github.com/YourUsername/Python-Multitool.git```
+```cd Python-Multitool```
 
 ## Install Dependencies
 ```pip install -r requirements.txt```
