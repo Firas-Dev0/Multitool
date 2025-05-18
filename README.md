@@ -39,7 +39,7 @@ Ensure you have Python 3.6+ installed. You can download it from python.org.
 ## Clone the Repository
 
 <pre>git clone https://github.com/Firas-Dev0/Multitool.git
-cd Python-Multitool</pre>
+cd Multitool</pre>
 or just install it from the page.
 
 ## Install Dependencies
